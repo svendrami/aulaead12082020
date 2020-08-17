@@ -1,0 +1,10 @@
+C:\Users\Rafael\source\repos\Aula01ADS\bin\Debug\Aula01ADS.exe.config
+C:\Users\Rafael\source\repos\Aula01ADS\bin\Debug\Aula01ADS.exe
+C:\Users\Rafael\source\repos\Aula01ADS\bin\Debug\Aula01ADS.pdb
+C:\Users\Rafael\source\repos\Aula01ADS\obj\Debug\Aula01ADS.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\Aula01ADS\obj\Debug\Aula01ADS.Form1.resources
+C:\Users\Rafael\source\repos\Aula01ADS\obj\Debug\Aula01ADS.Properties.Resources.resources
+C:\Users\Rafael\source\repos\Aula01ADS\obj\Debug\Aula01ADS.csproj.GenerateResource.cache
+C:\Users\Rafael\source\repos\Aula01ADS\obj\Debug\Aula01ADS.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\Aula01ADS\obj\Debug\Aula01ADS.exe
+C:\Users\Rafael\source\repos\Aula01ADS\obj\Debug\Aula01ADS.pdb
